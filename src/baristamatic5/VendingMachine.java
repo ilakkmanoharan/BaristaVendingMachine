@@ -1,6 +1,8 @@
 package baristamatic5;
 
-
+/* Copyright (C) 2017 Ilakkuvaselvi Manoharan - All Rights Reserved
+ * 
+ */
 
 /**
   * Declare public API for Vending Machine
