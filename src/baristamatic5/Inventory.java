@@ -1,5 +1,8 @@
 package baristamatic5;
 
+/* Copyright (C) 2017 Ilakkuvaselvi Manoharan - All Rights Reserved
+ * 
+ */
 
 import java.util.HashMap;
 import java.util.Map;
